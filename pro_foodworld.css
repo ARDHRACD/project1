@@ -1,0 +1,289 @@
+.parent1{
+    height: 700px;
+    /* background-color:black; */
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+    
+}
+.col{
+    height: 100%;
+    width: 100%;
+    border: 2px black solid;
+    border-radius: 10px;
+}
+
+.col-1{
+    background-image: url("./image/food.jpg");
+    background-size: cover;
+    border-radius: 10px;
+    opacity: 0.9;
+}
+.f1{
+    margin: 30px;
+    background-color: #ffffff;
+    border: 1px solid black;
+    opacity: 0.3;
+    height: 75px;
+    position: relative;
+    /* display: flex; */
+    /* justify-content: space-evenly; */
+    align-items: center;
+    padding: 2px;
+    position:sticky;
+    top: 0px;
+}
+.c1{
+    width: fit-content;
+    font-size: xx-large;
+    margin-left: 276px;
+    margin-top: 14px;
+    padding: 2px;
+}
+.c2{
+    width: fit-content;
+    font-size: xx-large;
+    margin-left: 2200px;
+    margin-top: -40px;
+    padding: 2px;
+}
+.c3{
+    width: fit-content;
+    font-size: xx-large;
+    margin-left: 2335px;
+    margin-top: -40px;
+    padding: 2px;
+}
+.c4{
+    color: blueviolet;
+}
+
+.c5{
+    text-align: center;
+    font-size: 65px;
+    color: rgb(217, 223, 223);
+}
+
+
+.s{
+    height: 560px;
+    /* background-color:grey; */
+    color: whitesmoke;
+    border: 5px white solid;
+    width: 40%;
+    float: left;
+    padding: 20px;
+    border-radius: 30px;
+    margin-top: 100px;
+}
+.s-1{
+    margin-left: 227px;
+}
+.s-2{
+    margin-left: 30px;
+}
+.c6{
+    background-image: url("./image/57ca234e47a31824f18afaab79b90a4c.jpg");
+    height: 360px;
+    background-size: cover;
+    border-radius: 30px;
+}
+.c7{
+    width: 100%;
+    height: 200px;
+    margin-top: -31px;
+    background-color: white;
+    border-radius: 10px;
+    padding: 1px;
+    border: 2px black solid;
+}
+.c8{
+    background-image: url("./image/bali-dinning-food.jpg");
+    height: 360px;
+    background-size: cover;
+    border-radius: 30px;
+}
+.c9{
+    width: 100%;
+    height: 200px;
+    margin-top: -31px;
+    background-color: white;
+    border-radius: 10px;
+    padding: 1px;
+    border: 2px black solid;
+}
+.title{
+    text-align:left ;
+    color: black;
+    font-size: 50px;
+    padding-left: 20px;
+}
+.subtitle{
+    text-align:left ;
+    color: black;
+    font-size: 25px;
+    padding-left: 20px;
+}
+
+.parent2
+{
+    height: 1000px;
+    /* background-color: bisque; */
+    margin-top: 800px;
+    padding: 5px;
+    width: 75%;
+    margin-left: 251px;
+    position: relative;
+    align-items: center;
+}
+.a1{
+    height: 200px;
+    color: black;
+    /* background-color:blue; */
+    font-size: 50px;
+    padding: 10px;
+}
+p{
+    font-size: 50px;
+}
+h1,.a2{
+    padding: 20px;
+}
+.a{
+    height: 500px;
+    width: 22%;
+    background-color: black;
+    padding: 5px;
+}
+.a-3{
+    background-color: black;
+    margin-top: 35px;
+    background-image: url("./image/1200px-Breakfast_\(5798987309\).jpg");
+    background-size: cover;
+    border-radius: 30PX;
+    position: relative;
+    align-items: center;
+}
+.a-4{
+    background-color: black;
+    margin-top: -510px;
+    margin-left: 516px;
+    background-image: url("./image/Lamb-Biryani-5.jpg");
+    background-size: cover;
+    border-radius: 30px;
+    position: relative;
+    align-items: center;
+}
+.a-5{
+    background-color: black;
+    margin-top: -509px;
+    margin-left: 1033px;
+    background-image: url("./image/orijit-chatterjee-wEBg_pYtynw-unsplash-scaled.jpg");
+    background-size: cover;
+    border-radius: 30px;
+    position: relative;
+    align-items: center;
+}
+
+.a-6{
+    background-color: black;
+    margin-top: -511px;
+    margin-left: 1555px;
+    background-image: url("./image/unnamed.jpg");
+    background-size: cover;
+    border-radius: 30px;
+    position: relative;
+    align-items: center;
+}
+.a-1,.a-2,.a-7,.a-8{
+    width: 25%;
+    height: 200px;
+    color: azure;
+    margin-top: 400px;
+    padding-left: 10px;
+    font-size: 50px;
+}
+.a-2{
+    color:white;
+    margin-left: 0px;
+    /* padding: 10px; */
+    width: 80%;
+}
+.a-7{
+    color:white;
+    margin-left: 0px;
+    /* padding: 10px; */
+    width: 80%;
+}
+.parent3{
+    height: 1000px;
+    margin-top: 0px;
+    padding: 5px;
+    position: relative;
+    align-items: center;
+    background-color:rgb(203, 199, 199);
+}
+.a3{
+    background-image: url("./image/smartphone-restaurant-online-food-ordering-mobile-app-development-png-favpng-fn2dZ8xBa4Pks4hpdEmRvG7rY.jpg");
+    background-size: cover;
+    width: 15%;
+    height: 876px;
+    margin-left: 740px;
+    margin-top: 100px;
+    border-radius: 30px;
+}
+.a4{
+    width: 50%;
+    height: 800px;
+    position: relative;
+    /* background-color:whitesmoke; */
+    margin-left: 1200px;
+    margin-top: -920px;
+}
+h2{
+    text-align: center;
+    font-size: 75px;
+}
+.a5{
+    height: 700px;
+    margin-left: 200px;
+}
+.a6{
+    font-size: 30px;
+    
+}
+#e3{
+    margin-top: 100px;
+    width: 50%;
+    height: 100px;
+    border-radius: 20px;
+
+}
+button{
+    height: 100px;
+    width: 15%;
+    font-size:x-large;
+    border-radius: 20px;
+    background-color: rgb(248, 43, 84);
+}
+button:hover{
+    background-color: white;
+}
+::placeholder{
+    font-size: x-large;
+    padding: 10px;
+}
+#a2{
+    font-size: xx-large;
+}
+.b1,.b2{
+    background-color: rgb(211, 185, 185);
+    width: 15%;
+    
+}
+#a3{
+    height: 100px;
+    width: 40%;
+    margin-left: 854px;
+    font-size: xx-large;
+}
